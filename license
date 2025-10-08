@@ -1,0 +1,9 @@
+
+---
+
+💡 **Tip:**  
+- You can also include a screenshot of your app in the **README** for a more professional look.  
+- Create a `requirements.txt` with all dependencies using:  
+
+```bash
+pip freeze > requirements.txt
